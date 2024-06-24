@@ -1,0 +1,6 @@
+{
+   "NVIDIA_API_KEY":"YOUR_KEY_HERE",
+   "MODEL":"google/codegemma-7b",
+   "MAX_TOKENS":1024,
+   "TEMPERATURE":0
+}
