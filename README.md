@@ -1,5 +1,5 @@
 # Use an LLM in your terminal!
-[Demo Video]((https://www.youtube.com/watch?v=pgMHhKO3Wg8))
+[Demo Video](https://www.youtube.com/watch?v=pgMHhKO3Wg8)
 - This allows you to generate commands, which you can then run easily
 
 ## Installation:
